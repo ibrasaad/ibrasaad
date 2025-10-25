@@ -1,6 +1,8 @@
 <div align="center" width="50%">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/><br>
+<!-- 🔹 Animated banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=900&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+ibrasaad;Java+%26+Spring+Boot+Backend+Developer" alt="Hello, I'm ibrasaad" /><br>
+
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ibrahim-alsaeed&style=flat&color=orange&label=PROFILE+VIEWS)  
@@ -16,6 +18,17 @@
 
 ---
 
+<details>
+  <summary><strong>🟢 Busy coding & vibing to :</strong></summary>
+  <br>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ibrahim-alsaeed&show_icons=true&theme=tokyonight&hide_border=true" alt="Ibrahim Alsaeed's GitHub stats" width="70%"/><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim-alsaeed&theme=tokyonight&hide_border=true" width="70%"/>
+  </p>
+</details>
+
+---
+
 ### 🧠 Tech Stack & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
@@ -28,16 +41,6 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-
-<details>
-  <summary><strong>🟢 Busy coding & vibing to :</strong></summary>
-  <br>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ibrahim-alsaeed&show_icons=true&theme=tokyonight&hide_border=true" alt="Ibrahim Alsaeed's GitHub stats" width="70%"/><br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim-alsaeed&theme=tokyonight&hide_border=true" width="70%"/>
-  </p>
-</details>
-
 
 ```java
 // quick summary
