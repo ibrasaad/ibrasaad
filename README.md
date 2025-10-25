@@ -38,13 +38,4 @@
 
 <h2 align="left">📊 GitHub Stats:</h2>
 
-<div align="center">
-
-<!-- ✅ Official and reliable GitHub Stats -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ibrahim-alsaeed&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ibrahim-alsaeed&theme=tokyonight&hide_border=true" width="49%" />
-
-<!-- ✅ Top Languages -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ibrahim-alsaeed&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
-
-</div>
+<p align="
