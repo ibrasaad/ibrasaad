@@ -29,6 +29,16 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
+<details>
+  <summary><strong>🟢 Busy coding & vibing to :</strong></summary>
+  <br>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ibrahim-alsaeed&show_icons=true&theme=tokyonight&hide_border=true" alt="Ibrahim Alsaeed's GitHub stats" width="70%"/><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim-alsaeed&theme=tokyonight&hide_border=true" width="70%"/>
+  </p>
+</details>
+
+
 ```java
 // quick summary
 public class IbrahimAlsaeed {
