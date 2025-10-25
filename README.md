@@ -18,4 +18,33 @@
     <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> </a>
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
     <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-    <a hr
+    <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+</p>
+
+<h2 align="left">👨🏻‍💻 About Me:</h2>
+
+- 💻 I'm a **Backend Developer** focusing on **Java & Spring Boot**
+- ☁️ Currently learning **Cloud Computing Basics**
+- ⚙️ Passionate about **APIs, Databases, and Backend Architecture**
+- 🚀 Always improving and exploring modern backend technologies
+- 🧠 Life motto: *"Build, learn, and never stop improving."*
+- 🎯 Fun fact: I enjoy learning about system design & scalability  
+
+<h2 align="left">🤝 Let's Connect:</h2>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Ibrahim%20Alsaeed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ibrahim-al-saeed/)](https://www.linkedin.com/in/ibrahim-al-saeed/) 
+[![GitHub Badge](https://img.shields.io/badge/-ibrahim--alsaeed-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/ibrahim-alsaeed)](https://github.com/ibrahim-alsaeed)
+[![Gmail Badge](https://img.shields.io/badge/-ibrahim.saeed.contact@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ibrahim.saeed.contact@gmail.com)
+
+---
+
+<h2 align="left">📊 GitHub Stats:</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ibrahim-alsaeed&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim-alsaeed&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-alsaeed&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+</p>
