@@ -33,18 +33,18 @@
 <h2 align="left">🤝 Let's Connect:</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ibrahim%20Alsaeed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ibrahim-al-saeed/)](https://www.linkedin.com/in/ibrahim-al-saeed/) 
-[![GitHub Badge](https://img.shields.io/badge/-ibrahim--alsaeed-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/ibrahim-alsaeed)](https://github.com/ibrahim-alsaeed)
-[![Gmail Badge](https://img.shields.io/badge/-ibrahim.saeed.contact@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ibrahim.saeed.contact@gmail.com)
 
 ---
 
 <h2 align="left">📊 GitHub Stats:</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahim-alsaeed&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim-alsaeed&theme=tokyonight&hide_border=true" width="49%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-alsaeed&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
-</p>
+<!-- ✅ Official and reliable GitHub Stats -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ibrahim-alsaeed&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ibrahim-alsaeed&theme=tokyonight&hide_border=true" width="49%" />
+
+<!-- ✅ Top Languages -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ibrahim-alsaeed&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+
+</div>
